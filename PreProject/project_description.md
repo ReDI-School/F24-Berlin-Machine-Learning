@@ -12,8 +12,9 @@ The evaluation metric will be this f1_score with average='macro':
  **from sklearn.metrics import accuracy_score, classification_report, f1_score **
  **score = f1_score(y_true, y_pred, average='macro') **
 
-Note: Reaching a Score of 65 % is possible with basic code?
+Note: Reaching a Score of 65 % is possible with basic code
 
+**Update: You can test your prediction against the evaluation data on this website: https://f24redimlchallange-hcqihppmsjbuekyubre4du.streamlit.app/**
 
 ## 🗂 Files Overview
 
