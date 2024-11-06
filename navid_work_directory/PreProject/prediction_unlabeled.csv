@@ -1,4 +1,4 @@
-ID;Maker; Genmodel; Genmodel_ID;Adv_year;Adv_month;Color;Reg_year;Bodytype;Runned_Miles;Engin_size;Gearbox;Fuel_type;Price;Seat_num;Door_num;issue;issue_id;Adv_day;breakdown_date;repair_complexity;repair_cost;repair_hours;repair_date;value
+ID;Maker;Genmodel;Genmodel_ID;Adv_year;Adv_month;Color;Reg_year;Bodytype;Runned_Miles;Engin_size;Gearbox;Fuel_type;Price;Seat_num;Door_num;issue;issue_id;Adv_day;breakdown_date;repair_complexity;repair_cost;repair_hours;repair_date;value
 1;Citroen;Grand C4 Picasso;18_24;2018;6;Black;2008.0;MPV;98121;2.0L;Automatic;Diesel;4090.0;7.0;5.0;Engine Issue;1;21;2018-06-21;2;1138.0;16.0;2018-06-25;3886.9807215561254
 2;Citroen;C3 Picasso;18_10;2017;8;Blue;2011.0;MPV;29000;1.6L;Manual;Petrol;4495.0;5.0;5.0;Electrical Issue;2;5;2017-08-05;2;28.99;1.0;2017-08-05;4270.159395463562
 3;Fiat;Doblo;28_12;2018;4;Grey;2003.0;Estate;142321;1.9L;Manual;Diesel;890.0;5.0;5.0;Electrical Issue;2;7;2018-04-07;1;11.78;0.5;2018-04-07;841.0122463603159
