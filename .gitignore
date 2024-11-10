@@ -1,4 +1,4 @@
 *.log
 *.tmp
 *.venv
-
+.DS_Store
